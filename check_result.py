@@ -1,8 +1,8 @@
 def check_result(name,marks):
     if marks>=50:
         result = "pass"
-    else
-        return ="fail"
+    else:
+        result ="fail"
 
     return result
 
